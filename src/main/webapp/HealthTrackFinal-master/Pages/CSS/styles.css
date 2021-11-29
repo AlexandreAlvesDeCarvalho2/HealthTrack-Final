@@ -1,0 +1,101 @@
+
+/*------------------ Gerais ----------- */
+body {
+  font-family: sans-serif;
+}
+
+container-fluid {
+	padding-top: 30px;
+}
+
+.row {
+  margin: 0;
+}
+
+.container {
+  padding: 70px 0;
+}
+
+
+ li {
+  color: #fff;
+  font-size: 14px;
+}
+h5 {color: #ffffff;
+}
+
+p { color: #ffffff; 
+}
+
+
+h3 {
+	color: #ffffff;
+	padding-top: 20px;
+	
+}
+  /* ---------------  Barra de navegação  ------------------ */
+
+
+header, .navbar {
+
+	height: 50px;	
+  background-color: #000000;
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+#logo {
+  width: 60px;
+  padding-left: 10px;
+}
+
+.navbar-brand {
+  padding: 0;
+  color: #FFF;
+}
+
+.navbar-brand:hover {
+  color: #FFF;
+}
+
+#navbar-links a {
+  color: #FFF;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 1rem .8rem;
+}
+
+.nav-item.active {
+  border-bottom: 3px solid #FFF;
+}
+  
+  /* ---------------  botão  ------------------ */
+   
+.btn-conf {
+		
+  background-color: #808080;
+  color: #ffffff;
+  width: 250px;
+  text-align: center;
+  padding-top:10px;
+  
+  border-radius: 30px;
+  border: 3px solid transparent;
+  transition: .5s;
+}
+
+.Esp-10px {
+	padding-top: 10px;
+}
+
+
+
+.backgroundColor {
+	background-color: #000000;
+	color: #ffffff;
+}
+ 
