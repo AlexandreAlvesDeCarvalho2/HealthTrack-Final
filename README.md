@@ -5,4 +5,5 @@ Passos para criação do sistema:
 1. Criar banco de dados
 2. Conectar a aplicação ao banco de dados
 3. Adicionar os metodos do CRUD
-4. Criar as JSP pages e fazer a integração.
+4. Criar as JSP pages
+5. fazer a integração.
